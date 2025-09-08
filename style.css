@@ -17,6 +17,14 @@
   text-align: center;
   font-size: large;
   font-weight: bold;
+  padding: 35px;
+}
+.satu a {
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  color: black;
 }
 .dua {
   background-color: #e6918e;
@@ -25,6 +33,7 @@
   text-align: center;
   font-size: large;
   font-weight: bold;
+  padding: 50px;
 }
 .tiga {
   background-color: #219ebc;
@@ -33,4 +42,5 @@
   text-align: center;
   font-size: large;
   font-weight: bold;
+  padding: 50px;
 }
