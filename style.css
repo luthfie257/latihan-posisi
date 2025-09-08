@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  width: 100%;
+  height: 2000px;
+  border: black 2px solid;
+}
+.satu {
+  position: relative;
+  background-color: #ffb703;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+.dua {
+  background-color: #e6918e;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+.tiga {
+  background-color: #219ebc;
+  height: 1000px;
+  width: 100%;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
