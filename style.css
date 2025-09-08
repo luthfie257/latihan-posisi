@@ -50,6 +50,15 @@
   gap: 20px;
   margin-top: 30px;
 }
+.flex div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+}
 .A {
   height: 100px;
   width: 100px;
