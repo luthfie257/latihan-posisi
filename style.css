@@ -37,10 +37,31 @@
 }
 .tiga {
   background-color: #219ebc;
-  height: 1000px;
+  height: 500px;
   width: 100%;
   text-align: center;
   font-size: large;
   font-weight: bold;
   padding: 50px;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 30px;
+}
+.A {
+  height: 100px;
+  width: 100px;
+  background-color: #ffb703;
+}
+.B {
+  height: 100px;
+  width: 100px;
+  background-color: #e6918e;
+}
+.C {
+  height: 100px;
+  width: 100px;
+  background-color: #219ebc;
 }
